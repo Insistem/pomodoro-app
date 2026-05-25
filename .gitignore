@@ -4,3 +4,7 @@ dist-electron/
 .vite/
 *.local
 .env
+.agents/
+cookies.json
+skills-lock.json
+.claude/skills/settings.local.json
